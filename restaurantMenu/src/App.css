@@ -1,0 +1,34 @@
+body {
+  text-align: center;
+  font-family: monospace;
+}
+
+.title-style {
+  font-size: 4.5rem;
+  color: rgb(126, 67, 67);
+  font-weight: bold;
+}
+
+.welcome-title {
+  color: rgb(80, 71, 59);
+  border-bottom: 1px solid rgb(80, 71, 59);
+}
+
+.tabs-style {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.3rem;
+}
+
+.footer-style {
+  margin-top: 2rem;
+  color: gray;
+}
+
+.side-text {
+  font-size: 28px;
+  text-align: center;
+  color: rgb(82, 73, 73);
+  font-family: Georgia, "Times New Roman", Times, serif;
+}

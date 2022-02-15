@@ -1,0 +1,17 @@
+.col-size {
+  height: 165px;
+}
+
+.container-style {
+  box-shadow: 14px 18px 47px -7px rgba(0, 0, 0, 0.66);
+  -webkit-box-shadow: 14px 18px 47px -7px rgba(0, 0, 0, 0.66);
+  -moz-box-shadow: 14px 18px 47px -7px rgba(0, 0, 0, 0.66);
+  border-radius: 30px;
+}
+
+.col {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 25px;
+}
